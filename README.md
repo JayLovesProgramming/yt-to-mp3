@@ -1,4 +1,6 @@
-Step 1: Download this python script and place it in a folder
+
+
+# Step 1: Download this python script and place it in a folder 
 Step 2: Open that folder in VS Code
 Step 3: Open a terminal in VS Code
 Step 4: Run pip install pytube moviepy to install the packages required
