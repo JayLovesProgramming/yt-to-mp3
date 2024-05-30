@@ -20,7 +20,7 @@
   ```sh
   python yttomp3.py
   
-### Step 5: Enter the URL of the youtube clip
+### Step 6: Enter the URL of the youtube clip
 - In the terminal, run the following command:
   ```sh
   It should start downloading
