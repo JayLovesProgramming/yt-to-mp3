@@ -14,3 +14,13 @@
 - In the terminal, run the following command to install the required packages:
   ```sh
   pip install pytube moviepy
+
+### Step 5: Run the command
+- In the terminal, run the following command:
+  ```sh
+  python yttomp3.py
+  
+### Step 5: Enter the URL of the youtube clip
+- In the terminal, run the following command:
+  ```sh
+  It should start downloading
