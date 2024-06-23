@@ -24,3 +24,5 @@
 - In the terminal, run the following command:
   ```sh
   It should start downloading
+
+I do not claim any content from YouTube and use at your own risk. I just don't like others using sites that could potentially lead to a security, downloading malware and then leading a potential security risk.
